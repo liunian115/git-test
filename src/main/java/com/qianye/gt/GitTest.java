@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("我是千夜。");
         System.out.println("我是千夜啊。");
         System.out.println("我是千夜哦。");
+        System.out.println("hot-fix分支。");
     }
 }
